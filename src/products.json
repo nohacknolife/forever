@@ -22,7 +22,7 @@
         "prix": 22000,
         "description": "Les bienfaits du gel d'aloe vera, pur ÃƒÂ  90%, sont accompagnÃƒÂ©s de la saveur naturelle et rafraÃƒÂ®chissante des canneberges, qui favorisent la santÃƒÂ© urinaire, et de pommes douces, qui fournissent des phytonutriments.",
         "ingredient": "90% aloe vera gel, canneberges, pommes",
-        "image": "../public/aloe-berry-nectar.webp",
+        "image": "../aloe-berry-nectar.webp",
         "categorie": "Boissons",
         "name": "Forever Aloe Berry Nectar"
     },
@@ -31,7 +31,7 @@
         "prix": 22000,
         "description": "Buvez les bienfaits nutritionnels du gel d'aloe vera pur ÃƒÂ  84,5% d'aloe vera avec la saveur et la nutrition des pÃƒÂªches mÃƒÂ»ries au soleil.",
         "ingredient": "84,5% aloe vera, pÃƒÂªches",
-        "image": "../public/aloe-bits-n-peache.webp",
+        "image": "../aloe-bits-n-peache.webp",
         "categorie": "Boissons",
         "name": "Forever Aloe Bits n'Peaches"
     },
