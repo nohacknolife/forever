@@ -1,0 +1,721 @@
+{
+    "aloe_vera_gel_small": {
+        "code": "716",
+        "prix": 7000,
+        "description": "Soutenez une variÃƒÂ©tÃƒÂ© de fonctions corporelles saines y compris la digestion et l'absorption des nutriments avec 99,7% de gel d'aloe vera pur.",
+        "ingredient": "99,7% aloe vera gel",
+        "image": "../71612.png",
+        "categorie": "Boissons",
+        "name": "Forever Aloe Vera Gel petit"
+    },
+    "aloe_vera_gel_big": {
+        "code": "015",
+        "prix": 22000,
+        "description": "Soutenez une variÃƒÂ©tÃƒÂ© de fonctions corporelles saines y compris la digestion et l'absorption des nutriments avec 99,7% de gel d'aloe vera pur.",
+        "ingredient": "99,7% aloe vera gel",
+        "image": "../forever-aloe-vera-gel-2.jpg",
+        "categorie": "Boissons",
+        "name": "Forever Aloe Vera Gel grand"
+    },
+    "aloe_berry_nectar": {
+        "code": "034",
+        "prix": 22000,
+        "description": "Les bienfaits du gel d'aloe vera, pur ÃƒÂ  90%, sont accompagnÃƒÂ©s de la saveur naturelle et rafraÃƒÂ®chissante des canneberges, qui favorisent la santÃƒÂ© urinaire, et de pommes douces, qui fournissent des phytonutriments.",
+        "ingredient": "90% aloe vera gel, canneberges, pommes",
+        "image": "../public/aloe-berry-nectar.webp",
+        "categorie": "Boissons",
+        "name": "Forever Aloe Berry Nectar"
+    },
+    "aloe_bits_n_peaches": {
+        "code": "077",
+        "prix": 22000,
+        "description": "Buvez les bienfaits nutritionnels du gel d'aloe vera pur ÃƒÂ  84,5% d'aloe vera avec la saveur et la nutrition des pÃƒÂªches mÃƒÂ»ries au soleil.",
+        "ingredient": "84,5% aloe vera, pÃƒÂªches",
+        "image": "../public/aloe-bits-n-peache.webp",
+        "categorie": "Boissons",
+        "name": "Forever Aloe Bits n'Peaches"
+    },
+    "forever_freedom": {
+        "code": "196",
+        "prix": 32000,
+        "description": "Le gel d'aloe vera, la chondroÃƒÂ¯tine, la glucosamine et le MSM se combinent ÃƒÂ  une saveur piquante d'orange pour aider ÃƒÂ  maintenir une fonction articulaire, un cartilage et une mobilitÃƒÂ© saine.",
+        "ingredient": "aloe vera, chondroÃƒÂ¯tine, glucosamine, MSM, orange",
+        "image": "../196.png",
+        "categorie": "Boissons",
+        "name": "Forever Freedom"
+    },
+    "aloe_blossom_herbal_tea": {
+        "code": "200",
+        "prix": 15500,
+        "description": "Cette infusion associe les goÃƒÂ»ts acidulÃƒÂ©s de l'ÃƒÂ©corce d'orange et de zeste de citron, les saveurs ÃƒÂ©picÃƒÂ©es de la cannelle et du clou de girofle, la fraÃƒÂ®cheur tonifiante du poivre de JamaÃƒÂ¯que et du gingembre. Se consomme aussi bien froid, que chaud.",
+        "ingredient": "ÃƒÂ©corce d'orange, zeste de citron, cannelle, clou de girofle, poivre de JamaÃƒÂ¯que, gingembre",
+        "image": "../200.webp",
+        "categorie": "Boissons",
+        "name": "Infusion Fleur d'AloÃƒÂ¨s - Aloe Blossom Herbal Tea"
+    },
+    "fab_forever_active_boost": {
+        "code": "822",
+        "prix": 5000,
+        "description": "ComposÃƒÂ©e de super-aliments tels que le cranberry (vitamines C), des extraits de guarana (antioxydant), de l'acaÃƒÂ¯, de l'acÃƒÂ©rola et du cafÃƒÂ© arabica, notre boisson ÃƒÂ©nergisante se consomme ÃƒÂ  tout moment de la journÃƒÂ©e pour stimuler votre ÃƒÂ©nergie physique et intellectuelle.",
+        "ingredient": "cranberry, guarana, acai, acÃƒÂ©rola, cafÃƒÂ© arabica",
+        "image": "../822.png",
+        "categorie": "Boissons",
+        "name": "FAB Forever Active Boost"
+    },
+    "forever_focus": {
+        "code": "622",
+        "prix": 72500,
+        "description": "GrÃƒÂ¢ce ÃƒÂ  un ingrÃƒÂ©dient ÃƒÂ©tudiÃƒÂ© cliniquement, le Cognizin, ainsi qu'ÃƒÂ  d'autres plantes et vitamines stimulant le cerveau, ce produit soutient les fonctions cognitives, la concentration mentale et l'attention.",
+        "ingredient": "Cognizin, plantes, vitamines",
+        "image": "../622.webp",
+        "categorie": "ComplÃƒÂ©ments alimentaires",
+        "name": "Forever Focus"
+    },
+    "forever_fields_of_greens": {
+        "code": "068",
+        "prix": 11500,
+        "description": "Un mÃƒÂ©lange d'herbes d'orge, d'herbes de blÃƒÂ© et de luzerne aide ÃƒÂ  combler les lacunes alimentaires pour nourrir l'organisme avec du poivre de Cayenne pour maintenir une digestion et une circulation saines.",
+        "ingredient": "herbes d'orge, herbes de blÃƒÂ©, luzerne, poivre de Cayenne",
+        "image": "../fields-of-greens.webp",
+        "categorie": "ComplÃƒÂ©ments alimentaires",
+        "name": "Forever Fields Of Greens"
+    },
+    "forever_ivision": {
+        "code": "624",
+        "prix": 30500,
+        "description": "Ce complÃƒÂ©ment oculaire avancÃƒÂ© favorise une vision saine et aide ÃƒÂ  filtrer la lumiÃƒÂ¨re bleue des appareils numÃƒÂ©riques grÃƒÂ¢ce ÃƒÂ  Lutermax 2020, un ingrÃƒÂ©dient dÃƒÂ©rivÃƒÂ© de l'extrait de souci qui a fait l'objet d'une ÃƒÂ©tude clinique.",
+        "ingredient": "Lutermax 2020 (extrait de souci)",
+        "image": "../624.webp",
+        "categorie": "ComplÃƒÂ©ments alimentaires",
+        "name": "Forever iVision"
+    },
+    "forever_daily": {
+        "code": "439",
+        "prix": 17500,
+        "description": "Ce mÃƒÂ©lange ÃƒÂ©quilibrÃƒÂ© de 55 vitamines et minÃƒÂ©raux utilise le pouvoir de l'aloÃƒÂ¨s dans un AOS ComplexÃ¢â€žÂ¢ exclusif pour maximiser l'absorption des nutriments et complÃƒÂ©ter un mode de vie sain.",
+        "ingredient": "55 vitamines et minÃƒÂ©raux, aloÃƒÂ¨s (AOS ComplexÃ¢â€žÂ¢)",
+        "image": "../439.webp",
+        "categorie": "ComplÃƒÂ©ments alimentaires",
+        "name": "Forever Daily"
+    },
+    "forever_supergreens_stick": {
+        "code": "621",
+        "prix": 34000,
+        "description": "Chaque bÃƒÂ¢tonnet portable contient un mÃƒÂ©lange de plus de 20 fruits, lÃƒÂ©gumes, super aliments et d'aloÃƒÂ¨s pour soutenir un certain nombre de fonctions et de systÃƒÂ¨mes corporels sains.",
+        "ingredient": "plus de 20 fruits, lÃƒÂ©gumes, super aliments, aloÃƒÂ¨s",
+        "image": "../forever_supergreens.jpg",
+        "categorie": "ComplÃƒÂ©ments alimentaires",
+        "name": "Forever Supergreens"
+    },
+    "forever_b12_plus": {
+        "code": "188",
+        "prix": 13500,
+        "description": "La vitamine B12 et l'acide folique sont combinÃƒÂ©s dans une formule avancÃƒÂ©e ÃƒÂ  libÃƒÂ©ration prolongÃƒÂ©e pour aider ÃƒÂ  soutenir les processus mÃƒÂ©taboliques, aider ÃƒÂ  la production de globules rouges et promouvoir un systÃƒÂ¨me immunitaire sain.",
+        "ingredient": "vitamine B12, acide folique",
+        "image": "../forever-b12.png",
+        "categorie": "ComplÃƒÂ©ments alimentaires",
+        "name": "Forever B12 Plus"
+    },
+    "forever_nature_min": {
+        "code": "037",
+        "prix": 16000,
+        "description": "Obtenez des niveaux optimaux de 10 minÃƒÂ©raux essentiels et oligo-ÃƒÂ©lÃƒÂ©ments qui contribuent ÃƒÂ  l'ÃƒÂ©quilibre ÃƒÂ©lectrolytique et soutiennent le mÃƒÂ©tabolisme ÃƒÂ©nergÃƒÂ©tique.",
+        "ingredient": "10 minÃƒÂ©raux essentiels et oligo-ÃƒÂ©lÃƒÂ©ments",
+        "image": "../forever_nature-min.png",
+        "categorie": "ComplÃƒÂ©ments alimentaires",
+        "name": "Forever Nature-Min"
+    },
+    "forever_lycium_plus": {
+        "code": "072",
+        "prix": 26000,
+        "description": "Ce mÃƒÂ©lange de plantes comprend du lycium, ÃƒÂ©galement connu sous le nom de baie de goji, qui fournit des phytonutriments et des antioxydants dont il a ÃƒÂ©tÃƒÂ© dÃƒÂ©montrÃƒÂ© qu'ils amÃƒÂ©liorent le teint et aident ÃƒÂ  maintenir une bonne vision et de l'ÃƒÂ©nergie.",
+        "ingredient": "lycium (baie de goji)",
+        "image": "../forever-lycium-plus.png",
+        "categorie": "ComplÃƒÂ©ments alimentaires",
+        "name": "Forever Lycium Plus"
+    },
+    "forever_calcium": {
+        "code": "206",
+        "prix": 21500,
+        "description": "Une combinaison de calcium, de vitamine D, de zinc et de magnÃƒÂ©sium favorise la santÃƒÂ© osseuse lorsqu'elle est associÃƒÂ©e ÃƒÂ  une alimentation saine et ÃƒÂ  une activitÃƒÂ© physique rÃƒÂ©guliÃƒÂ¨re.",
+        "ingredient": "calcium, vitamine D, zinc, magnÃƒÂ©sium",
+        "image": "../206.webp",
+        "categorie": "ComplÃƒÂ©ments alimentaires",
+        "name": "Forever Calcium"
+    },
+    "forever_fiber": {
+        "code": "464",
+        "prix": 25000,
+        "description": "Les bÃƒÂ¢tonnets de fibres pratiques favorisent une digestion saine et se dissolvent facilement dans votre boisson prÃƒÂ©fÃƒÂ©rÃƒÂ©e sans texture granuleuse.",
+        "ingredient": "fibres",
+        "image": "../464.webp",
+        "categorie": "ComplÃƒÂ©ments alimentaires",
+        "name": "Forever Fiber"
+    },
+    "forever_vitolize_men": {
+        "code": "374",
+        "prix": 26000,
+        "description": "FormulÃƒÂ© avec des ingrÃƒÂ©dients tels que le palmier nain, le pygeum, les graines de citrouille et le lycopÃƒÂ¨ne, ce complÃƒÂ©ment alimentaire pour hommes apporte un soutien naturel ÃƒÂ  la fonction testiculaire et ÃƒÂ  la santÃƒÂ© urinaire.",
+        "ingredient": "palmier nain, pygeum, graines de citrouille, lycopÃƒÂ¨ne",
+        "image": "../374.webp",
+        "categorie": "ComplÃƒÂ©ments alimentaires",
+        "name": "Forever Vitolize For Men"
+    },
+    "forever_vitolize_women": {
+        "code": "375",
+        "prix": 27500,
+        "description": "Un mÃƒÂ©lange de plantes riche en antioxydants, comprenant de la poudre de pomme, de la passiflore, de la baie de schisandra et de la poudre de canneberge, apporte un soutien naturel ÃƒÂ  l'ÃƒÂ©quilibre hormonal des femmes et ÃƒÂ  la santÃƒÂ© des voies urinaires.",
+        "ingredient": "poudre de pomme, passiflore, baie de schisandra, poudre de canneberge",
+        "image": "../forever-active-ha-2023-07-28-64c375ad01c2c.webp",
+        "categorie": "ComplÃƒÂ©ments alimentaires",
+        "name": "Forever Vitolize For Women"
+    },
+    "forever_kids": {
+        "code": "354",
+        "prix": 13000,
+        "description": "SpÃƒÂ©cialement formulÃƒÂ© avec les vitamines, minÃƒÂ©raux et autres nutriments essentiels dont l'organisme en pleine croissance a besoin, ce produit ÃƒÂ  croquer sans sucre, au goÃƒÂ»t de raisin, est sans danger pour les enfants de 2 ans et plus.",
+        "ingredient": "vitamines, minÃƒÂ©raux",
+        "image": "../forever-kids.webp",
+        "categorie": "ComplÃƒÂ©ments alimentaires",
+        "name": "Forever Kids"
+    },
+    "forever_absorbent_c": {
+        "code": "048",
+        "prix": 15000,
+        "description": "La vitamine C contribue ÃƒÂ  rÃƒÂ©duire la fatigue et permet de retrouver tonus et ÃƒÂ©nergie. Elle est indispensable pour renforcer la rÃƒÂ©sistance de l'organisme.",
+        "ingredient": "vitamine C, extrait d'ÃƒÂ©corce de citrus",
+        "image": "../absorbent-c.webp",
+        "categorie": "ComplÃƒÂ©ments alimentaires",
+        "name": "Forever Absorbent-C"
+    },
+    "forever_immune_gummy": {
+        "code": "566",
+        "prix": 32000,
+        "description": "Nos gummies 100% vegans, aux dÃƒÂ©licieux arÃƒÂ´mes naturels saveur fruits tropicaux, renferment un cocktail de 10 vitamines essentielles et du zinc pour soutenir le systÃƒÂ¨me immunitaire et stimuler les dÃƒÂ©fenses naturelles de l'organisme.",
+        "ingredient": "10 vitamines essentielles, zinc",
+        "image": "../566.webp",
+        "categorie": "ComplÃƒÂ©ments alimentaires",
+        "name": "Forever Immune Gummy"
+    },
+    "forever_immublend": {
+        "code": "355",
+        "prix": 20500,
+        "description": "Contient des vitamines C, D3 et du zinc qui contribuent au fonctionnement normal du systÃƒÂ¨me immunitaire et aident ÃƒÂ  protÃƒÂ©ger les cellules contre le stress oxydatif.",
+        "ingredient": "vitamines C, D3, zinc",
+        "image": "../355.webp",
+        "categorie": "ComplÃƒÂ©ments alimentaires",
+        "name": "Forever ImmuBlend"
+    },
+    "forever_active_pro_b": {
+        "code": "610",
+        "prix": 32000,
+        "description": "Contient des probiotiques qui participent ÃƒÂ  l'ÃƒÂ©quilibre de la flore intestinale.",
+        "ingredient": "probiotiques",
+        "image": "../610.webp",
+        "categorie": "ComplÃƒÂ©ments alimentaires",
+        "name": "Forever Active Pro-B"
+    },
+    "forever_garlic_thyme": {
+        "code": "065",
+        "prix": 16000,
+        "description": "Forever Ail et Thym est une association unique de 2 extraits de plantes. Capsule sans odeur ÃƒÂ©quivalant ÃƒÂ  1000 mg d'ail frais.",
+        "ingredient": "ail, thym",
+        "image": "../forever_garlic.jpg",
+        "categorie": "ComplÃƒÂ©ments alimentaires",
+        "name": "Forever Garlic-Thyme"
+    },
+    "forever_cardiohealth": {
+        "code": "312",
+        "prix": 29000,
+        "description": "Cette combinaison de CoQ10, de vitamines B et de minÃƒÂ©raux, prÃƒÂ©sentÃƒÂ©e dans un sachet pratique, peut contribuer ÃƒÂ  la santÃƒÂ© de la fonction cardiaque et de la circulation.",
+        "ingredient": "CoQ10, vitamines B, minÃƒÂ©raux",
+        "image": "../forever-cardio-health.png",
+        "categorie": "ComplÃƒÂ©ments alimentaires",
+        "name": "Forever CardioHealth With CoQ10"
+    },
+    "forever_arctic_sea": {
+        "code": "376",
+        "prix": 26000,
+        "description": "Le mÃƒÂ©lange exclusif d'acides gras omÃƒÂ©ga-3 EPA et DHA ÃƒÂ  la saveur et ÃƒÂ  l'arÃƒÂ´me d'agrumes, toujours rafraÃƒÂ®chissants, contribue ÃƒÂ  la santÃƒÂ© des principaux systÃƒÂ¨mes de l'organisme, notamment les systÃƒÂ¨mes cardiovasculaire, digestif, immunitaire, cÃƒÂ©rÃƒÂ©bral et oculaire.",
+        "ingredient": "acides gras omÃƒÂ©ga-3 EPA et DHA",
+        "image": "../376.webp",
+        "categorie": "ComplÃƒÂ©ments alimentaires",
+        "name": "Forever Arctic Sea"
+    },
+    "forever_multi_maca": {
+        "code": "215",
+        "prix": 23500,
+        "description": "ConÃƒÂ§u pour les hommes et les femmes, ce mÃƒÂ©lange de maca et d'autres ingrÃƒÂ©dients naturels renforce l'endurance, augmente le dÃƒÂ©sir sexuel et favorise une humeur positive et dÃƒÂ©tendue.",
+        "ingredient": "maca",
+        "image": "../forever-multi-maca.png",
+        "categorie": "ComplÃƒÂ©ments alimentaires",
+        "name": "Forever Multi-Maca"
+    },
+    "forever_active_ha": {
+        "code": "264",
+        "prix": 29500,
+        "description": "Ce mÃƒÂ©lange avancÃƒÂ© d'ingrÃƒÂ©dients qui soutiennent les articulations, comme le gingembre et la racine de curcuma, vous aide ÃƒÂ  rester en mouvement grÃƒÂ¢ce ÃƒÂ  l'ajout d'acide hyaluronique, qui lubrifie et amortit les articulations.",
+        "ingredient": "gingembre, racine de curcuma, acide hyaluronique",
+        "image": "../264.webp",
+        "categorie": "ComplÃƒÂ©ments alimentaires",
+        "name": "Forever Active HA"
+    },
+    "forever_move": {
+        "code": "551",
+        "prix": 55000,
+        "description": "Favorisez une bonne amplitude de mouvement, le confort des articulations et une rÃƒÂ©cupÃƒÂ©ration rapide aprÃƒÂ¨s l'exercice grÃƒÂ¢ce ÃƒÂ  ce mÃƒÂ©lange de curcumine et de protÃƒÂ©ines clÃƒÂ©s issues de la membrane de la coquille d'Ã…â€œuf.",
+        "ingredient": "curcumine, protÃƒÂ©ines de la membrane de la coquille d'Ã…â€œuf",
+        "image": "../551.webp",
+        "categorie": "ComplÃƒÂ©ments alimentaires",
+        "name": "Forever Move"
+    },
+    "forever_plant_protein": {
+        "code": "656",
+        "prix": 48500,
+        "description": "Formule vÃƒÂ©gane, sans produits laitiers et sans soja, contenant 17g de protÃƒÂ©ines de haute qualitÃƒÂ© par portion. Ce shake ÃƒÂ  la dÃƒÂ©licieuse saveur de vanille est formulÃƒÂ© ÃƒÂ  base de protÃƒÂ©ines de pois et de citrouille qui contribuent au fonctionnement normal des os, ÃƒÂ  la croissance et au maintien de la masse musculaire.",
+        "ingredient": "protÃƒÂ©ines de pois et de citrouille",
+        "image": "../656.png",
+        "categorie": "Nutrition sportive",
+        "name": "Forever Plant Protein"
+    },
+    "argi_plus_packet": {
+        "code": "504",
+        "prix": 65500,
+        "description": "VitalitÃƒÂ©, force endurance, sport extrÃƒÂªme, Forever ARGI+ MÃƒÂ©langez une dosette de Forever Argi+Ã¢â€žÂ¢ ÃƒÂ  240ml de boisson (eau, jus de fruits ou Pulpe d'AloÃƒÂ¨s Vera).",
+        "ingredient": "L-Arginine, cocktail unique de vitamines",
+        "image": "../forever-argi.webp",
+        "categorie": "Nutrition sportive",
+        "name": "ARGI+"
+    },
+    "aloe_cooling_lotion": {
+        "code": "564",
+        "prix": 13000,
+        "description": "Avec du menthol, de l'eucalyptus et du camphre apaisants, ainsi que du mÃƒÂ©thyl sulfonyl mÃƒÂ©thane (MSM), cette formule riche mais lÃƒÂ©gÃƒÂ¨re, procure une sensation de fraÃƒÂ®cheur et peut aider ÃƒÂ  apaiser la peau.",
+        "ingredient": "menthol, eucalyptus et camphre",
+        "image": "../564.webp",
+        "categorie": "Soins topiques",
+        "name": "Aloe Cooling Lotion"
+    },
+    "aloe_heat_lotion": {
+        "code": "064",
+        "prix": 13000,
+        "description": "Cette formule ultra riche mais non grasse s'applique de maniÃƒÂ¨re fraÃƒÂ®che et stimulante, puis se rÃƒÂ©chauffe lorsqu'elle est massÃƒÂ©e sur la peau pour favoriser la relaxation.",
+        "ingredient": "Aloe vera",
+        "image": "../aloe-heat-lotion.jpg",
+        "categorie": "Soins topiques",
+        "name": "Aloe Heat Lotion"
+    },
+    "aloe_msm_gel": {
+        "code": "205",
+        "prix": 20500,
+        "description": "Ce produit combine de l'Aloe vera ÃƒÂ  du MÃƒÂ©thyl Sulfonyl MÃƒÂ©thane (MSM), un soufre organique prÃƒÂ©sent dans de nombreux organismes vivants. Cette association procure un confort et une hydratation en profondeur.",
+        "ingredient": "Aloe vera, MÃƒÂ©thyl Sulfonyl MÃƒÂ©thane (MSM)",
+        "image": "../205.png",
+        "categorie": "Soins topiques",
+        "name": "Aloe MSM Gel"
+    },
+    "c9": {
+        "code": "547",
+        "prix": 104500,
+        "description": "Avec le programme CLEAN 9, vous effectuerez un démarrage fulgurant vers une version plus saine et plus mince de vous mÃƒÂªme. Ce programme de dÃƒÂ©toxification efficace et facile ÃƒÂ  suivre, vous donnera les outils nÃƒÂ©cessaires pour commencer dÃƒÂ¨s aujourd'hui votre transformation.",
+        "ingredient": "Aloe Vera Gel (2x1litre), Forever Lite Ultra, Forever Garcinia Plus (54 gÃƒÂ©lules), Forever Therm (18 comprimÃƒÂ©s), Forever Fiber (9 dosettes)",
+        "image": "../630.png",
+        "categorie": "Gestion du poids",
+        "name": "C9"
+    },
+    "vital5": {
+        "code": "456",
+        "prix": 223000,
+        "description": "Vital5 comprend cinq produits Forever issus de la recherche de pointe en nutrition. Ces cinq produits sont indispensables au maintien de la super nutritionnelle et favorisent un bien-ÃƒÂªtre au quotidien.",
+        "ingredient": "Forever Aloe Vera Gel, Forever Daily, Forever Active Pro-B, Forever Arctic Sea, ARGI+",
+        "image": "../456.webp",
+        "categorie": "Bien-ÃƒÂªtre gÃƒÂ©nÃƒÂ©ral",
+        "name": "Vital5"
+    },
+    "f15_beginner": {
+        "code": "528",
+        "prix": 127000,
+        "description": "Prenez la prochaine ÃƒÂ©tape pour paraÃƒÂ®tre bien et vous sentir bien. Peu importe si vous ÃƒÂªtes en train de commencer ou si vous ÃƒÂªtes dÃƒÂ©jÃƒÂ  expert, F15 a des programmes de nutrition et d'exercices dÃƒÂ©butants, intermÃƒÂ©diaires ou avancÃƒÂ©s pour vous aider dans votre parcours de fitness et de gestion de poids.",
+        "ingredient": "Forever Aloe Vera Gel (2x1 litre), Forever Lite Ultra (15 repas), Forever Therm (30 comprimÃƒÂ©s), Forever Garcinia Plus (90 gÃƒÂ©lules), Forever Fiber (15 dosettes)",
+        "image": "../f15-beginner.jpg",
+        "categorie": "Gestion du poids/Fitness",
+        "name": "F15 Beginner"
+    },
+    "forever_therm": {
+        "code": "463",
+        "prix": 25000,
+        "description": "Contient des extraits de plantes (thÃƒÂ© vert, cafÃƒÂ© vert, guarana) associÃƒÂ©s ÃƒÂ  des vitamines B et C. Le thÃƒÂ© vert aide ÃƒÂ  maintenir et contrÃƒÂ´ler le poids ainsi que la rÃƒÂ©duction des corps gras.",
+        "ingredient": "thÃƒÂ© vert, cafÃƒÂ© vert, guarana",
+        "image": "../463.webp",
+        "categorie": "Gestion du poids",
+        "name": "Forever Therm"
+    },
+    "forever_lite_ultra_vanilla": {
+        "code": "470",
+        "prix": 26500,
+        "description": "IdÃƒÂ©al pour complÃƒÂ©ter un repas lÃƒÂ©ger et ainsi apporter protÃƒÂ©ines, glucides, vitamines et minÃƒÂ©raux. Les vitamines du groupe B contribuent au rendement normal du mÃƒÂ©tabolisme ÃƒÂ©nergÃƒÂ©tique et les protÃƒÂ©ines participent au maintien de la masse musculaire.",
+        "ingredient": "protÃƒÂ©ines, glucides, vitamines et minÃƒÂ©raux",
+        "image": "../forever-lite-ultra-vanille.webp",
+        "categorie": "Gestion du poids",
+        "name": "Forever Lite Ultra Vanilla"
+    },
+    "forever_lite_ultra_chocolate": {
+        "code": "471",
+        "prix": 26500,
+        "description": "IdÃƒÂ©al pour complÃƒÂ©ter un repas lÃƒÂ©ger et ainsi apporter protÃƒÂ©ines, glucides, vitamines et minÃƒÂ©raux. Les vitamines du groupe B contribuent au rendement normal du mÃƒÂ©tabolisme ÃƒÂ©nergÃƒÂ©tique et les protÃƒÂ©ines participent au maintien de la masse musculaire.",
+        "ingredient": "protÃƒÂ©ines, glucides, vitamines et minÃƒÂ©raux",
+        "image": "../471.webp",
+        "categorie": "Gestion du poids",
+        "name": "Forever Lite Ultra Chocolate"
+    },
+    "forever_lean": {
+        "code": "289",
+        "prix": 36500,
+        "description": "Contient des fibres extraites du cactus Opuntia ficus indica. Le chrome contribue ÃƒÂ  maintenir des taux normaux de glucose sanguin.",
+        "ingredient": "cactus opuntia ficus indica, chrome",
+        "image": "../forever-lean.jpg",
+        "categorie": "Gestion du poids",
+        "name": "Forever Lean"
+    },
+    "forever_fast_break": {
+        "code": "520",
+        "prix": 5000,
+        "description": "Source de glucides, protÃƒÂ©ines, vitamines et minÃƒÂ©raux, la barre Fast Break! MÃƒÂ©rite un concentrÃƒÂ© de nutriments avec une dÃƒÂ©licieuse sauce beurre de cacahuÃƒÂ¨tes.",
+        "ingredient": "glucides, protÃƒÂ©ines, vitamines et minÃƒÂ©raux",
+        "image": "../forever-fast-break.webp",
+        "categorie": "Gestion du poids",
+        "name": "Forever Fast Break"
+    },
+    "forever_garcinia_plus": {
+        "code": "071",
+        "prix": 26000,
+        "description": "Allie les bÃƒÂ©nÃƒÂ©fices du garcinia ÃƒÂ  ceux du chrome. Le garcinia est un fruit riche en acide hydroxycitrique qui rÃƒÂ©gule l'appÃƒÂ©tit et bloque la transformation des sucres en graisses.",
+        "ingredient": "garcinia, chrome",
+        "image": "../forever-garcinia-plus.webp",
+        "categorie": "Gestion du poids",
+        "name": "Forever Garcinia Plus"
+    },
+    "forever_royal_jelly": {
+        "code": "036",
+        "prix": 28500,
+        "description": "La gelÃƒÂ©e royale est le produit le plus prÃƒÂ©cieux de la ruche. SÃƒÂ©crÃƒÂ©tÃƒÂ©e par les jeunes abeilles, elle transforme en quelques jours une larve en reine.",
+        "ingredient": "gelÃƒÂ©e royale",
+        "image": "../forever-royal-jelly.webp",
+        "categorie": "Produits de la ruche",
+        "name": "Forever Royal Jelly"
+    },
+    "forever_bee_propolis": {
+        "code": "27",
+        "prix": 28500,
+        "description": "La propolis est une rÃƒÂ©sine collectÃƒÂ©e et mÃƒÂ©tabolisÃƒÂ©e par les abeilles mellifÃƒÂ¨res ÃƒÂ  partir des arbres et est utilisÃƒÂ©e pour protÃƒÂ©ger la ruche.",
+        "ingredient": "propolis",
+        "image": "../27.webp",
+        "categorie": "Produits de la ruche",
+        "name": "Forever Bee Propolis"
+    },
+    "forever_bee_pollen": {
+        "code": "026",
+        "prix": 13000,
+        "description": "CollectÃƒÂ© sur les fleurs par les abeilles, le pollen apporte vitalitÃƒÂ© et rÃƒÂ©sistance tout au long de vos vies.",
+        "ingredient": "pollen",
+        "image": "../forever-bee-pollen.webp",
+        "categorie": "Produits de la ruche",
+        "name": "Forever Bee Pollen"
+    },
+    "forever_bee_honey": {
+        "code": "207",
+        "prix": 15500,
+        "description": "Le miel, aussi appelÃƒÂ© \"or de la ruche\", est produit par les abeilles ÃƒÂ  partir du nectar des fleurs. Avec sa texture fluide, le Forever Bee HoneyÃ¢â€žÂ¢ s'ajoute facilement ÃƒÂ  l'alimentation. Son flacon est facile ÃƒÂ  utiliser pour doser.",
+        "ingredient": "miel",
+        "image": "../207.webp",
+        "categorie": "Produits de la ruche",
+        "name": "Forever Bee Honey"
+    },
+    "aloe_propolis_creme": {
+        "code": "051",
+        "prix": 16000,
+        "description": "L'aloÃƒÂ¨s associÃƒÂ© ÃƒÂ  la propolis, font de cette crÃƒÂ¨me ÃƒÂ  la texture riche, un vÃƒÂ©ritable rÃƒÂ©parateur apaisant. La camomille, l'allantoÃƒÂ¯ne et les vitamines A et E apportent ÃƒÂ  la peau douceur et souplesse. Elle peut ÃƒÂªtre utilisÃƒÂ©e sur les peaux sÃƒÂ¨ches et rugueuses.",
+        "ingredient": "aloÃƒÂ¨s, propolis, camomille, allantoÃƒÂ¯ne, vitamines A et E",
+        "image": "../aloe-propolis-creme.webp",
+        "categorie": "Produits de la ruche",
+        "name": "Aloe Propolis CrÃƒÂ¨me"
+    },
+    "deep_moisturizing_cream": {
+        "code": "651",
+        "prix": 32000,
+        "description": "Ce soin rÃƒÂ©gÃƒÂ©nÃƒÂ©rant agit comme un bain d'hydratation et procure ÃƒÂ  la peau un confort extrÃƒÂªme. La peau est repulpÃƒÂ©e, comme dÃƒÂ©froissÃƒÂ©e, lissÃƒÂ©e, redensifiÃƒÂ©e.",
+        "ingredient": "aloÃƒÂ¨s, ingrÃƒÂ©dients hydratants",
+        "image": "../651.webp",
+        "categorie": "Soins de la peau",
+        "name": "Deep Moisturizing Cream"
+    },
+    "aloe_bio_cellulose_mask": {
+        "code": "664",
+        "prix": 27500,
+        "description": "Masque Aloe Bio-Cellulose. Pack de 5 masques - 0,127 CC Sera lancÃƒÂ© fin janvier 2024",
+        "ingredient": "aloÃƒÂ¨s, bio-cellulose",
+        "image": "../masque-bio-cellulose.webp",
+        "categorie": "Soins de la peau",
+        "name": "Masque Aloe Bio-Cellulose"
+    },
+    "balancing_toner": {
+        "code": "560",
+        "prix": 19000,
+        "description": "Cette Lotion apporte un vÃƒÂ©ritable coup d'ÃƒÂ©clat ÃƒÂ  la peau. Elle parfait le dÃƒÂ©maquillage et dÃƒÂ©barrasse la peau des impuretÃƒÂ©s.",
+        "ingredient": "aloÃƒÂ¨s, extrait de thÃƒÂ© blanc",
+        "image": "../lotion-tonifiante.jpg",
+        "categorie": "Soins de la peau",
+        "name": "Balancing Toner"
+    },
+    "r3_factor": {
+        "code": "069",
+        "prix": 28500,
+        "description": "Ce soin favorise l'exfoliation naturelle de la peau et diminue l'apparence des pores. Les rides et ridules sont visiblement lissÃƒÂ©es, le grain de peau est plus fin et la peau est plus douce et plus uniforme, la peau retrouve son aspect comme neuve.",
+        "ingredient": "aloÃƒÂ¨s, acides de fruits",
+        "image": "../r3-factor-aloes.jpg",
+        "categorie": "Soins de la peau",
+        "name": "R3 Factor"
+    },
+    "forever_alpha_e_factor": {
+        "code": "187",
+        "prix": 30000,
+        "description": "VÃƒÂ©ritable bouclier anti-ÃƒÂ¢ge, ce sÃƒÂ©rum est enrichi en antioxydants puissants pour rÃƒÂ©duire les signes du vieillissement et les agressions cutanÃƒÂ©es (pollution, stress, etc.). La peau est mieux hydratÃƒÂ©e, protÃƒÂ©gÃƒÂ©e, renforcÃƒÂ©e, plus dense et plus lumineuse, la peau retrouve son ÃƒÂ©clat.",
+        "ingredient": "aloÃƒÂ¨s, antioxydants",
+        "image": "../forever-alpha-e-factor.jpg",
+        "categorie": "Soins de la peau",
+        "name": "Forever Alpha-E Factor"
+    },
+    "protecting_day_lotion": {
+        "code": "557",
+        "prix": 32000,
+        "description": "CrÃƒÂ¨me de jour SPF 20. Hydrate et protÃƒÂ¨ge votre peau au quotidien. Son filtre 100 % minÃƒÂ©ral naturel protÃƒÂ¨ge des rayons UV (dont UVA et UVB), responsables du vieillissement prÃƒÂ©maturÃƒÂ© de la peau.",
+        "ingredient": "aloÃƒÂ¨s, filtre minÃƒÂ©ral",
+        "image": "../protecting-day-lotion-spf-20.webp",
+        "categorie": "Soins de la peau",
+        "name": "Protecting Day Lotion SPF20"
+    },
+    "hydrating_cleanser": {
+        "code": "554",
+        "prix": 24500,
+        "description": "Nettoie et hydrate la peau en un seul geste. L'actif nettoyant utilisÃƒÂ©, extrait naturel de noix de coco, est hypoallergÃƒÂ©nique et non-irritant.",
+        "ingredient": "aloÃƒÂ¨s, extrait de noix de coco",
+        "image": "../554.webp",
+        "categorie": "Soins de la peau",
+        "name": "Hydrating Cleanser"
+    },
+    "restoring_creme": {
+        "code": "558",
+        "prix": 43000,
+        "description": "Riche en Aloe vera, extraits de plantes, huile de jojoba et vitamine B3, la CrÃƒÂ¨me RÃƒÂ©paratrice a une double action hydratante et rÃƒÂ©paratrice. Le visage est visiblement repulpÃƒÂ©.",
+        "ingredient": "aloÃƒÂ¨s, extraits de plantes, huile de jojoba, vitamine B3",
+        "image": "../558.webp",
+        "categorie": "Soins de la peau",
+        "name": "Restoring creme"
+    },
+    "firming_complex": {
+        "code": "556",
+        "prix": 38500,
+        "description": "Le Complexe Raffermissant lutte de l'intÃƒÂ©rieur contre les signes apparents de l'âge.",
+        "ingredient": "extraits de plantes",
+        "image": "../556.webp",
+        "categorie": "Soins de la peau",
+        "name": "Firming complex"
+    },
+    "firming_serum": {
+        "code": "555",
+        "prix": 38500,
+        "description": "Le Sérum Raffermissant combat les signes visibles de l'ÃƒÂ¢ge en intensifiant l'ÃƒÂ©lasticitÃƒÂ© de la peau.",
+        "ingredient": "aloÃƒÂ¨s, extraits de plantes",
+        "image": "../555.webp",
+        "categorie": "Soins de la peau",
+        "name": "Firming serum"
+    },
+    "smoothing_exfoliator": {
+        "code": "559",
+        "prix": 16000,
+        "description": "Ce soin conjugue exfoliation enzymatique (bromÃƒÂ©laÃƒÂ¯ne et papaÃƒÂ¯ne) et mÃƒÂ©canique (microbilles de jojoba) pour nettoyer la peau en profondeur.",
+        "ingredient": "aloÃƒÂ¨s, bromÃƒÂ©laÃƒÂ¯ne et papaÃƒÂ¯ne",
+        "image": "../soin-exfoliant-les-soins.webp",
+        "categorie": "Soins de la peau",
+        "name": "smoothing exfoliator"
+    },
+    "awakening_eye_cream": {
+        "code": "561",
+        "prix": 16000,
+        "description": "La Crème Contour des Yeux est le secret d'un regard sublimÃƒÂ©. Cette crÃƒÂ¨me allie l'Aloe vera ÃƒÂ  un extrait de cafÃƒÂ©ine pour un regard visiblement rajeuni.",
+        "ingredient": "aloÃƒÂ¨s, extrait de cafÃƒÂ©ine",
+        "image": "../creme-contour-des-yeux.webp",
+        "categorie": "Soins de la peau",
+        "name": "Awakening eye cream"
+    },
+    "aloe_activator": {
+        "code": "612",
+        "prix": 14000,
+        "description": "Soin indispensable, il peut ÃƒÂªtre utilisÃƒÂ© seul pour hydrater la peau et vitaliser le teint. MÃƒÂ©langÃƒÂ© au Masque Poudre Visage, il redonne une nouvelle jeunesse ÃƒÂ  la peau.",
+        "ingredient": "aloÃƒÂ¨s",
+        "image": "../activateur-aloes-.webp",
+        "categorie": "Soins de la peau",
+        "name": "Aloe activator"
+    },
+    "hydrating_serum": {
+        "code": "618",
+        "prix": 30500,
+        "description": "Le SÃƒÂ©rum Hydratant repulpe et hydrate parfaitement votre ÃƒÂ©piderme tout en rÃƒÂ©duisant l'apparence des ridules et des rides.",
+        "image": "../618.png",
+        "categorie": "Soins de la peau",
+        "name": "SÃƒÂ©rum hydratant Hydrating serum"
+    },
+    "aloe_lips": {
+        "code": "022",
+        "prix": 3500,
+        "description": "Une formule ultra-hydratante et protectrice pour ce baume ÃƒÂ  lÃƒÂ¨vres qui associe Aloe vera, huile de jojoba et cire d'abeille.",
+        "ingredient": "Aloe vera, huile de jojoba et cire d'abeille",
+        "image": "../22.webp",
+        "categorie": "Soins des lÃƒÂ¨vres",
+        "name": "Aloe Lips"
+    },
+    "aloe_vera_gelly": {
+        "code": "061",
+        "prix": 13000,
+        "description": "ParticuliÃƒÂ¨rement riche en Aloe vera, ce gel transparent non gras possÃƒÂ¨de toutes les vertus de la plante.",
+        "ingredient": "Aloe vera",
+        "image": "../gelee-aloes.webp",
+        "categorie": "Soins de la peau",
+        "name": "Aloe Vera Gelly"
+    },
+    "aloe_moisturizing_lotion": {
+        "code": "063",
+        "prix": 13000,
+        "description": "Ce soin protÃƒÂ¨ge, nourrit et rÃƒÂ©duit les signes visibles du vieillissement cutanÃƒÂ©. Sa texture fondante, enrichie en collagÃƒÂ¨ne et en ÃƒÂ©lastine, hydrate et repulpe.",
+        "ingredient": "aloÃƒÂ¨s, collagÃƒÂ¨ne, ÃƒÂ©lastine",
+        "image": "../creme-aloes.webp",
+        "categorie": "Soins de la peau",
+        "name": "Aloe Moisturizing Lotion"
+    },
+    "forever_aloe_scrub": {
+        "code": "238",
+        "prix": 13500,
+        "description": "Cette crÃƒÂ¨me onctueuse, enrichie en grains de cire de Jojoba ÃƒÂ©limine en douceur impuretÃƒÂ©s et cellules mortes.",
+        "ingredient": "aloÃƒÂ¨s, grains de cire de jojoba",
+        "image": "../238.webp",
+        "categorie": "Soins de la peau",
+        "name": "Forever Aloe Scrub"
+    },
+    "aloe_avocado_face_body_soap": {
+        "code": "284",
+        "prix": 6500,
+        "description": "Enrichi en ingrÃƒÂ©dients naturels comme l'huile d'avocat pur et l'Aloe vera, le savon Visage et Corps Aloe Avocado nettoie et hydrate la peau en la laissant plus lisse, douce et plus ÃƒÂ©clatante.",
+        "ingredient": "huile d'avocat, aloÃƒÂ¨s",
+        "image": "../284.webp",
+        "categorie": "Soins de la peau",
+        "name": "Savon corps et visage ÃƒÂ  l'aloe et ÃƒÂ  l'avocat Aloe Avocado Face & Body Soap"
+    },
+    "aloe_body_wash": {
+        "code": "646",
+        "prix": 19500,
+        "description": "GrÃƒÂ¢ce ÃƒÂ  sa formule trÃƒÂ¨s douce, L'Aloe Body Wash nettoie et revitalise la peau dÃƒÂ©licatement tout en respectant son ÃƒÂ©quilibre.",
+        "ingredient": "aloÃƒÂ¨s",
+        "image": "../646.webp",
+        "categorie": "Soins du corps",
+        "name": "Aloe Body Wash"
+    },
+    "aloe_body_lotion": {
+        "code": "647",
+        "prix": 20000,
+        "description": "Ce soin apaise, hydrate et protÃƒÂ¨ge la peau du dessÃƒÂ¨chement. Votre peau est souple, douce et d'apparence plus lisse.",
+        "ingredient": "aloÃƒÂ¨s",
+        "image": "../647.webp",
+        "categorie": "Soins du corps",
+        "name": "Aloe Body Lotion"
+    },
+    "aloe_jojoba_shampoo": {
+        "code": "640",
+        "prix": 19000,
+        "description": "Le Shampoing Aloe Jojoba lave tout en douceur et hydrate tous les types de cheveux. L'Aloe vera et l'huile de jojoba laissent les cheveux souples, brillants et apaisent le cuir chevelu.",
+        "ingredient": "aloÃƒÂ¨s, huile de jojoba",
+        "image": "../640.webp",
+        "categorie": "Soins des cheveux",
+        "name": "Shampoing Aloe-Jojoba Aloe-Jojoba Shampoo"
+    },
+    "aloe_jojoba_conditioner": {
+        "code": "641",
+        "prix": 20500,
+        "description": "L'AprÃƒÂ¨s-Shampoing Aloe-Jojoba laisse vos cheveux doux et parfaitement dÃƒÂ©mÃƒÂªlÃƒÂ©s, sans les alourdir.",
+        "ingredient": "aloÃƒÂ¨s, huile de jojoba",
+        "image": "../641.webp",
+        "categorie": "Soins des cheveux",
+        "name": "AprÃƒÂ¨s Shampoing Aloe-Jojoba Aloe-Jojoba Conditioner"
+    },
+    "aloe_first": {
+        "code": "040",
+        "prix": 17500,
+        "description": "Une brume ÃƒÂ  utiliser quotidiennement pour hydrater, rafraÃƒÂ®chir et tonifier l'ÃƒÂ©piderme du visage et du corps grÃƒÂ¢ce ÃƒÂ  sa formule exceptionnelle enrichie de 11 extraits de plantes, d'Aloe vera, de propolis et d'allantoÃƒÂ¯ne.",
+        "ingredient": "11 extraits de plantes, Aloe vera, propolis, allantoÃƒÂ¯ne",
+        "image": "../aloe-first.webp",
+        "categorie": "Soins de la peau",
+        "name": "Aloe First"
+    },
+    "aloe_ever_shield": {
+        "code": "067",
+        "prix": 7000,
+        "description": "Sans alcool, sans sels d'aluminium et discrÃƒÂ¨tement parfumÃƒÂ©, ce dÃƒÂ©odorant assure une protection efficace sans tacher vos vÃƒÂªtements. Sa formule ÃƒÂ  l'aloÃƒÂ¨s adoucit et hydrate la peau.",
+        "ingredient": "Aloe vera",
+        "image": "../aloe_ever-shield.jpg",
+        "categorie": "HygiÃƒÂ¨ne corporelle",
+        "name": "Aloe Ever-Shield"
+    },
+    "gentleman_s_pride": {
+        "code": "070",
+        "prix": 12500,
+        "description": "Gentleman's PrideÃ¢â€žÂ¢ est une crÃƒÂ¨me fluide et lÃƒÂ©gÃƒÂ¨re, aux propriÃƒÂ©tÃƒÂ©s apaisantes pour calmer le feu du rasoir et les agressions extÃƒÂ©rieures. La peau est hydratÃƒÂ©e, douce et apaisÃƒÂ©e. Son parfum subtil apporte une note d'ÃƒÂ©lÃƒÂ©gance discrÃƒÂ¨te.",
+        "ingredient": "Aloe vera",
+        "image": "../gentlemans-pride.webp",
+        "categorie": "Soins de la peau",
+        "name": "Gentleman's Pride"
+    },
+    "forever_hand_sanitizer": {
+        "code": "318",
+        "prix": 3500,
+        "description": "Une formule bactÃƒÂ©ricide pour nettoyer, dÃƒÂ©sinfecter et assainir parfaitement vos mains oÃƒÂ¹ que vous soyez. Enrichie en Aloe vera et en miel, sa formule parfume dÃƒÂ©licatement les mains sans les dessÃƒÂ©cher.",
+        "ingredient": "Aloe vera, miel",
+        "image": "../1318.png",
+        "categorie": "HygiÃƒÂ¨ne",
+        "name": "Forever Hand Sanitizer"
+    },
+    "forever_bright_toothgel": {
+        "code": "028",
+        "prix": 7000,
+        "description": "Ce gel dentaire, sans fluor et non abrasif, ravive l'ÃƒÂ©mail de vos dents. Son complexe ÃƒÂ  la chlorophylle procure une sensation de fraÃƒÂ®cheur naturelle. Sa formule complÃƒÂ¨te ÃƒÂ  base de propolis et d'aloÃƒÂ¨s assainit parfaitement la flore buccale.",
+        "ingredient": "Propolis, aloÃƒÂ¨s, chlorophylle",
+        "image": "../28.png",
+        "categorie": "HygiÃƒÂ¨ne bucco-dentaire",
+        "name": "Forever Bright Toothgel"
+    },
+    "aloe_liquid_soap": {
+        "code": "633",
+        "prix": 16500,
+        "description": "Savon pour le visage, le corps et les cheveux ÃƒÂ  destination de toute la famille. Sa formule trÃƒÂ¨s douce nettoie dÃƒÂ©licatement, respecte la peau et les cheveux, hydrate et prÃƒÂ©serve du dessÃƒÂ¨chement, apaise, adoucit tout en laissant la peau souple.",
+        "ingredient": "Aloe vera",
+        "image": "../633.png",
+        "categorie": "HygiÃƒÂ¨ne",
+        "name": "Aloe Liquid Soap"
+    },
+    "forever_alofa_fine_fragrance": {
+        "code": "643",
+        "prix": 29000,
+        "description": "Un parfum floral chaleureux et sÃƒÂ©duisant avec une touche d'agrumes.",
+        "ingredient": "notes florales, agrumes",
+        "image": "../643.webp",
+        "categorie": "Parfums",
+        "name": "Forever Alofa Fine Fragrance"
+    },
+    "forever_malosi_fine_fragrance": {
+        "code": "644",
+        "prix": 29000,
+        "description": "Un parfum boisÃƒÂ© intrigant aux ÃƒÂ©pices.",
+        "ingredient": "notes boisÃƒÂ©es, ÃƒÂ©pices",
+        "image": "../644.webp",
+        "categorie": "Parfums",
+        "name": "Forever Malosi Fine Fragrance"
+    }
+}
