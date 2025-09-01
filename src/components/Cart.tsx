@@ -11,12 +11,13 @@ import { Minus, Plus, Trash2 } from "lucide-react";
 import { useCart } from "../contexts/CartContext";
 import { ThemeToggle } from "./ThemeProvider";
 
-
-
 const Cart = () => {
   const { items, updateQuantity, removeFromCart, getTotalPrice } = useCart();
   const [customerName, setCustomerName] = useState("");
   const [customerPhone, setCustomerPhone] = useState("");
+  const [errorMessage, seterrorMessage] = useState("");
+  const [loading, setLoading] = useState(false);
+
   const navigate = useNavigate();
 
   const handleQuantityChange = (id: string, newQuantity: number) => {
@@ -26,18 +27,53 @@ const Cart = () => {
   };
 
   const handleOrder = () => {
-
-
     if (items.length === 0) {
       alert("Votre panier est vide");
       return;
     }
     if (!customerName.trim() || !customerPhone.trim()) {
-      alert("Veuillez remplir votre nom et numéro de téléphone");
+      alert("Veuillez remplir votre nom et numéro de téléphone avec le format requis");
       return;
     }
-     window.location.href = "https://api.whatsapp.com/send/?phone=%2B2250707379592&text&type=phone_number&app_absent=0";
-    //navigate("/thank-you");
+
+    if (errorMessage.trim() == "error") {
+      alert("Mauvais numero de télephone");
+      return;
+    }
+    //  window.location.href = "https://api.whatsapp.com/send/?phone=%2B2250707379592&text&type=phone_number&app_absent=0";
+
+    let produits = {};
+
+    items.forEach(produit => {
+      produits[produit.name] = {
+        "qte" : produit.quantity,
+        "prix" : produit.price
+      };
+    });
+
+    const myHeaders = new Headers();
+    myHeaders.append("Content-Type", "application/json");
+
+    const payload = {
+      nom: customerName,
+      num: customerPhone,
+      produits: produits,
+    };
+    const API_URL = import.meta.env.VITE_API_URL;
+    setLoading(true);
+    fetch(
+      API_URL,
+        {
+        method: "POST",
+        mode: "no-cors",
+        headers: myHeaders,
+        body: JSON.stringify(payload),
+        redirect: "follow",
+      }
+    )
+      .then((response) => {setLoading(false);navigate("/thank-you");})
+      .catch((error) => console.error(error));
+
   };
 
   return (
@@ -87,7 +123,9 @@ const Cart = () => {
                           <p className="text-sm text-muted-foreground">
                             {item.category}
                           </p>
-                          <p className="font-bold">{item.price.toFixed(2)} FCFA</p>
+                          <p className="font-bold">
+                            {item.price.toFixed(2)} FCFA
+                          </p>
                         </div>
                         <div className="flex items-center gap-2">
                           <Button
@@ -134,6 +172,14 @@ const Cart = () => {
             </Card>
           </div>
 
+          {loading && (
+        <div className="fixed inset-0 bg-black bg-opacity-60 flex items-center justify-center z-50">
+          <div className="flex flex-col items-center">
+            <div className="w-12 h-12 border-4 border-white border-t-transparent rounded-full animate-spin"></div>
+            <p className="mt-3 text-white text-lg">Traitement...</p>
+          </div>
+        </div>
+      )}
           {/* Order Summary & Customer Info */}
           <div className="space-y-6">
             {/* Customer Information */}
@@ -159,11 +205,27 @@ const Cart = () => {
                     type="tel"
                     placeholder="Votre numéro de téléphone"
                     value={customerPhone}
-                    onChange={(e) => setCustomerPhone(e.target.value)}
+                    onChange={(e) => {
+
+
+                     if (/^[0-9+]*$/.test(e.target.value)) {
+                        const mess = document.getElementById("num_error_message");
+                        mess.style.display = "none";
+                        seterrorMessage("");
+                        setCustomerPhone(e.target.value);
+                     }else{
+                      const mess = document.getElementById("num_error_message");
+                      mess.style.display = "block";
+                      seterrorMessage("error");
+                     }
+                    }
+
+                    }
                   />
                 </div>
+                <p id="num_error_message" style={{ color: "red" }} >Veuillez n'utiliser que des chiffres dans le format (+225)XXXXXXXXXX</p>
               </CardContent>
-            </Card>
+            </Card> 
 
             {/* Order Summary */}
             <Card>
